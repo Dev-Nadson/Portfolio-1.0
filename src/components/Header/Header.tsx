@@ -15,7 +15,7 @@ function Header() {
             <div className="flex justify-between">
                 <div className="ml-20 flex flex-col justify-between">
                     <div>
-                        <h1 className="mt-50 text-[4rem] text-center">Olá, meu nome é <strong>Nadson Alex!</strong></h1>
+                        <h1 className="mt-50 text-[3.1vw] text-center">Olá, meu nome é <strong>Nadson Alex!</strong></h1>
                         <h3 className="text-5xl ">Desenvolvedor <strong className="text-indigo-700">Fullstack</strong></h3>
                         <p className="mt-5 text-2xl">
                             Transformando ideias em realidade de forma <strong>elegante e escalável</strong>!
