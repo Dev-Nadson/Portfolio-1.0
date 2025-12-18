@@ -5,11 +5,11 @@ import { Projects } from "./components/Projects/Projects"
 function App() {
   return (
     <html className="scroll-smooth">
-      <body className="bg-linear-65 from-purple-50 to-purple-100 text-gray-900 my-4 mx-5 md:my-8 md:mx-10">
+      <body className="flex flex-col min-h-screen bg-linear-65 from-purple-50 to-purple-100 text-gray-900 py-4 px-5 md:py-8 md:px-10">
         <Header />
+        <AboutMe />
         {/*
         
-        <AboutMe />
         <Projects />
         */}
 

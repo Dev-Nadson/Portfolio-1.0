@@ -3,7 +3,7 @@ import { Code2 } from "lucide-react"
 
 function Header() {
     return (
-        <header className="h-150 md:h-[95vh] border shadow-xl shadow-purple-300 border-purple-700 rounded-3xl flex flex-col">
+        <header className="h-150 md:h-[95vh] shadow-2xl shadow-purple-300 border border-purple-700 rounded-3xl flex flex-col">
 
             <div className="bg-purple-200 py-5 px-5 md:px-28 rounded-t-3xl transition-all duration-500">
                 <div className="mx-auto flex justify-between max-w-400">
@@ -16,7 +16,7 @@ function Header() {
             </div>
 
             <section className="px-4 md:px-15 flex flex-1 items-center justify-center gap-4">
-                <div className="flex items-center justify-center">
+                <div className="flex items-center justify-center gap-12">
                     <div className="flex flex-col justify-between items-center lg:items-start h-full min-h-90">
 
                         <div className="flex flex-col gap-4">
