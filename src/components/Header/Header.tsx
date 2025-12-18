@@ -15,9 +15,7 @@ function Header() {
                 </div>
             </div>
 
-
             <section className="px-4 md:px-15 flex flex-1 items-center justify-center gap-4">
-
                 <div className="flex items-center justify-center">
                     <div className="flex flex-col justify-between items-center lg:items-start h-full min-h-90">
 
@@ -34,7 +32,6 @@ function Header() {
 
                     <img src="/send-message.svg" alt="" className="h-[38vw] hidden lg:block my-6" />
                 </div>
-
             </section>
 
         </header>
