@@ -9,9 +9,9 @@ function App() {
         <Header />
         {/*
         
-        */}
         <AboutMe />
         <Projects />
+        */}
 
       </body>
     </html>
