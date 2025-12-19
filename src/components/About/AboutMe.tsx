@@ -15,7 +15,7 @@ function Tech(props: Iprops) {
 
 function AboutMe() {
     return (
-        <div id="sobremim" className=" h-full my-12 py-10 px-4 lg:pb-20 lg:pt-15 md:px-10 bg-linear-65 from-purple-50 to-purple-100 shadow-2xl shadow-purple-400 border-purple-700 rounded-3xl flex flex-col justify-between">
+        <div id="sobremim" className=" h-full mt-12 mb-8 py-10 px-4 lg:pb-20 lg:pt-15 md:px-10 bg-linear-65 from-purple-50 to-purple-100 shadow-2xl shadow-purple-400 border-purple-700 rounded-3xl flex flex-col justify-between">
             <div className=" flex flex-col items-center gap-2 md:gap-12">
 
                 <h1 className="text-4xl md:text-6xl font-bold">Sobre <strong className="text-indigo-700"> Mim</strong>:</h1>
